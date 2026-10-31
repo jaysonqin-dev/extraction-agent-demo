@@ -1,0 +1,17 @@
+{
+  "product_name": "Summit Pack P5",
+  "style_code": "SPP5-25",
+  "test_type": "wear",
+  "test_date": "May 6, 2025",
+  "participants": 15,
+  "average_rating": "4,5 out of 5",
+  "rating_scale": 5,
+  "recommendation": "ship",
+  "reviewer_names": ["Dev", "Amara"],
+  "key_findings": [
+    "Load transfer stayed comfortable at 12 kg.",
+    "Hip belt pockets were praised.",
+    "Zipper pull snagged on the rain cover."
+  ],
+  "notes": null
+}

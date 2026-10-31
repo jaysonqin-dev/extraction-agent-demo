@@ -1,0 +1,16 @@
+{
+  "product_name": "Flow Short F6",
+  "style_code": "FSF6-25",
+  "test_type": "wear",
+  "test_date": "2025-05-19",
+  "participants": 20,
+  "average_rating": 4.4,
+  "rating_scale": 5,
+  "recommendation": "ship",
+  "reviewer_names": ["Nils", "Rosa", "Idris"],
+  "key_findings": [
+    "Liner stayed in place during runs.",
+    "Drawcord knots tended to loosen."
+  ],
+  "notes": "Test ran during a heat wave, which may inflate sweat-wicking scores."
+}

@@ -1,0 +1,12 @@
+== Harbor Parka H9 | HPH9-25 ==
+type: wear | date: Jul 8, 2025 | n=14
+score: 4.3/5
+verdict: SHIP
+who: Kofi & Sofia
+
+findings:
+ * Storm flap seals well in sustained rain.
+ * Pocket placement works with a harness.
+ * Hem drawcord is fiddly with wet hands.
+
+comments: Sizing chart needs a second look for the tall range.

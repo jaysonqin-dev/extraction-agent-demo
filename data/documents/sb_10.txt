@@ -1,0 +1,12 @@
+== Ridge Glove G10 | RGG10-25 ==
+type: wear | date: 2025/07/22 | n = 6
+score: 3,2 / 5
+verdict: revise
+who: Amara, Luca, Dev
+
+findings:
+ * Fingertip grip is good on dry surfaces.
+ * Wrist cuff loosens after an hour of use.
+ * Lining bunches near the thumb.
+
+comments: -

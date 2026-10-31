@@ -1,0 +1,17 @@
+{
+  "product_name": "Harbor Parka H9",
+  "style_code": "hph9-25",
+  "test_type": "wear",
+  "test_date": "2025-07-08",
+  "participants": 14,
+  "average_rating": 4.3,
+  "rating_scale": 5,
+  "recommendation": "ship",
+  "reviewer_names": ["Sofia", "Kofi"],
+  "key_findings": [
+    "Storm flap seals well in sustained rain.",
+    "Pocket placement works with a harness.",
+    "Hem drawcord is fiddly with wet hands."
+  ],
+  "notes": "Sizing chart needs a second look for the tall range."
+}

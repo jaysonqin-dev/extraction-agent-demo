@@ -1,0 +1,17 @@
+{
+  "product_name": "Dash Vest D8",
+  "style_code": "DVD8-25",
+  "test_type": "wear",
+  "test_date": "2025-06-17",
+  "participants": 9,
+  "average_rating": 4.1,
+  "rating_scale": 5,
+  "recommendation": "revise",
+  "reviewer_names": ["Priya", "Tomas"],
+  "key_findings": [
+    "Reflective trim stayed visible after washing.",
+    "Armhole cut restricts movement for some torso lengths.",
+    "Packs into its own pocket easily."
+  ],
+  "notes": "Reviewers noted no concerns."
+}

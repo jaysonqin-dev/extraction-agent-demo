@@ -1,0 +1,17 @@
+{
+  "product_name": "Camp Fleece C7",
+  "style_code": "CFC7-25",
+  "test_type": "lab",
+  "test_date": "2025-06-03",
+  "participants": null,
+  "average_rating": 3.5,
+  "rating_scale": 5,
+  "recommendation": "revise",
+  "reviewer_names": ["Mei"],
+  "key_findings": [
+    "Pile retention dropped after the abrasion cycle.",
+    "Thermal resistance met the target.",
+    "Dimensional change after wash exceeded tolerance."
+  ],
+  "notes": "Wear patterns on the cuffs were noted during abrasion rounds."
+}

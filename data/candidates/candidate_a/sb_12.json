@@ -1,0 +1,17 @@
+{
+  "product_name": "Alpine Beanie B12",
+  "style_code": "ABB12-25",
+  "test_type": "lab",
+  "test_date": "26 Aug 2025",
+  "participants": null,
+  "average_rating": 2.8,
+  "rating_scale": 5,
+  "recommendation": "drop",
+  "reviewer_names": ["Jonas", "Hana"],
+  "key_findings": [
+    "Colour transfer onto light fabrics in the rub test.",
+    "Fit stretch recovered within tolerance.",
+    "Seam stitching unravelled at the crown."
+  ],
+  "notes": "Rub test repeated twice with the same result."
+}

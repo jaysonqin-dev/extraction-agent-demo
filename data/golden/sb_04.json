@@ -1,0 +1,17 @@
+{
+  "product_name": "Merino Crew M4",
+  "style_code": "MCM4-25",
+  "test_type": "wear",
+  "test_date": "2025-04-09",
+  "participants": 8,
+  "average_rating": 2.9,
+  "rating_scale": 5,
+  "recommendation": "drop",
+  "reviewer_names": ["Luca", "Sofia"],
+  "key_findings": [
+    "Pilling appeared at the underarm after two weeks.",
+    "Odour control was rated highly by all wearers.",
+    "Neckline stretched after repeated washing."
+  ],
+  "notes": "Two testers returned incomplete forms."
+}

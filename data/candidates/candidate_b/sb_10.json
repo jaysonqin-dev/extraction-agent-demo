@@ -1,0 +1,17 @@
+{
+  "product_name": "Ridge Glove G10",
+  "style_code": "RGG10-25",
+  "test_type": "wear",
+  "test_date": "2025-07-22",
+  "participants": "a handful",
+  "average_rating": 3.2,
+  "rating_scale": 5,
+  "recommendation": "revise",
+  "reviewer_names": ["Amara", "Luca", "Dev"],
+  "key_findings": [
+    "Fingertip grip is good on dry surfaces.",
+    "Wrist cuff loosens after an hour of use.",
+    "Lining bunches near the thumb."
+  ],
+  "notes": null
+}

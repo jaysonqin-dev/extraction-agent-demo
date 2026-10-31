@@ -1,0 +1,15 @@
+PRODUCT TEST SHAREBACK
+Product: Rain Shell R3
+Style code: RSR3-25
+Test type: Lab test
+Test date: April 2, 2025
+Participants: n/a
+Average rating: 4.0 out of 5
+Recommendation: Ship
+Reviewers: Hana
+
+Key findings:
+- Water column test passed at the stated rating.
+- Seam tape adhesion intact after flex cycling.
+
+Notes: Lab run covered three sample units.

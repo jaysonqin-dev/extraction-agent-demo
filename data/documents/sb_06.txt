@@ -1,0 +1,11 @@
+Shareback memo: Flow Short F6 (FSF6-25)
+
+This follows the earlier round from 12 May 2025. The new wear test took place on 05/19/2025 with 20 testers. The average rating was 4.4/5. Reviewed by Nils, Rosa and Idris.
+
+Our recommendation: ship.
+
+Key takeaways:
+1. Liner stayed in place during runs.
+2. Drawcord knots tended to loosen.
+
+Additional notes: Test ran during a heat wave, which may inflate sweat-wicking scores.

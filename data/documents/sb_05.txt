@@ -1,0 +1,12 @@
+Shareback memo: Summit Pack P5 (SPP5-25)
+
+We ran a wear test starting 6 May 2025 with fifteen participants. Comfort was scored 5/5 in the first week, but the overall group rating settled at 4,5 out of 5. Reviewed by Dev and Amara.
+
+Our recommendation is to ship.
+
+Key takeaways:
+1. Load transfer stayed comfortable at 12 kg.
+2. Hip belt pockets were praised.
+3. Zipper pull snagged on the rain cover.
+
+Additional notes: none.

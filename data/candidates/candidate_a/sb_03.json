@@ -1,0 +1,16 @@
+{
+  "product_name": "Rain Shell R3",
+  "style_code": "RSR3-25",
+  "test_type": "Lab",
+  "test_date": "2025-04-02",
+  "participants": null,
+  "average_rating": "4.0/5",
+  "rating_scale": 5,
+  "recommendation": "ship",
+  "reviewer_names": ["Hana"],
+  "key_findings": [
+    "Water column test passed at the stated rating.",
+    "Seam tape adhesion intact after flex cycling."
+  ],
+  "notes": "Lab run covered three sample units."
+}

@@ -1,0 +1,16 @@
+PRODUCT TEST SHAREBACK
+Product: Trail Jacket X1
+Style code: TJX1-25
+Test type: Wear test
+Test date: 2025-03-14
+Participants: 12
+Average rating: 4.2 / 5
+Recommendation: Ship
+Reviewers: Maya, Jonas, Priya
+
+Key findings:
+- Seams held up through 20 wash cycles.
+- Hood adjusts easily with gloves on.
+- Cuff closure runs slightly tight on larger wrists.
+
+Notes: Colourway feedback collected separately.

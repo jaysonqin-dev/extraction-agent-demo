@@ -1,0 +1,17 @@
+{
+  "product_name": "Trail Jacket X1",
+  "style_code": "TJX1-25",
+  "test_type": "wear",
+  "test_date": "2025-03-14",
+  "participants": 12,
+  "average_rating": 4.2,
+  "rating_scale": 5,
+  "recommendation": "ship",
+  "reviewer_names": ["Maya", "Jonas", "Priya"],
+  "key_findings": [
+    "Seams held up through 20 wash cycles.",
+    "Hood adjusts easily with gloves on.",
+    "Cuff closure runs slightly tight on larger wrists."
+  ],
+  "notes": "Colourway feedback collected separately."
+}

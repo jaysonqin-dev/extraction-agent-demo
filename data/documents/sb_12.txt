@@ -1,0 +1,12 @@
+== Alpine Beanie B12 | ABB12-25 ==
+type: lab | date: 08/26/2025 | n: n/a
+score: 2.8 / 5
+verdict: DROP
+who: Jonas, Hana
+
+findings:
+ * Colour transfer onto light fabrics in the rub test.
+ * Fit stretch recovered within tolerance.
+ * Seam stitching unravelled at the crown.
+
+comments: Rub test repeated twice with the same result.

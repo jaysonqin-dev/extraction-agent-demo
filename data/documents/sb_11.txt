@@ -1,0 +1,11 @@
+== Cloud Sock K11 | CSK11-25 ==
+type: wear | date: 5 August 2025 | 18 ppl
+score: 4.6/5
+verdict: Ship
+who: Elena
+
+findings:
+ * Cushioning held its shape after 30 wears.
+ * Heel cup stays put during running.
+
+comments: Seasonal colours to be tested in a follow-up round.

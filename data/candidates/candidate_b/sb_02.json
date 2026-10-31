@@ -1,0 +1,17 @@
+{
+  "product_name": "Studio Tight S2",
+  "style_code": "STS2-25",
+  "test_type": "wear",
+  "test_date": "2025-03-21",
+  "participants": 10,
+  "average_rating": 3.6,
+  "rating_scale": 5,
+  "recommendation": "ship",
+  "reviewer_names": ["Elena", "Kofi"],
+  "key_findings": [
+    "Waistband rolls down during high-intensity sessions.",
+    "Fabric opacity is good in all tested colours.",
+    "Pocket is too small for a standard phone."
+  ],
+  "notes": null
+}
