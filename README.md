@@ -1,5 +1,7 @@
 # extraction-agent-demo
 
+[![tests](https://github.com/jaysonqin-dev/extraction-agent-demo/actions/workflows/tests.yml/badge.svg)](https://github.com/jaysonqin-dev/extraction-agent-demo/actions/workflows/tests.yml)
+
 A team extracts structured fields from product-test "shareback" documents with an LLM step, and wants to swap that step for a cheaper or different runtime. The question is whether the new extractor is safe to ship. This repo answers it with an evaluation harness instead of a model call: a golden set, schema validation, normalization, a field-level parity report with a mismatch taxonomy, a pass/fail gate, a rule-based baseline as a floor, and a parametric cost model.
 
 Everything is Python 3.9 standard library only. All data is synthetic, and the candidate outputs are hand-written fixtures standing in for model output; no live model calls are made.
